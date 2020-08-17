@@ -34,7 +34,7 @@
     "semantic-release": "^17.1.1"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.8",
+    "@types/jest": "^26.0.10",
     "@xobotyi/eslint-config": "^1.9.0",
     "eslint": "^7.6.0",
     "husky": "^4.2.5",
